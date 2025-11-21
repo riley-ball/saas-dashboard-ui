@@ -1,9 +1,8 @@
+# SaaS Dashboard UI Design
 
-  # SaaS Dashboard UI Design
+A modern SaaS dashboard interface built with React, TypeScript, and Tailwind CSS.
 
-  This is a code bundle for SaaS Dashboard UI Design. The original project is available at https://www.figma.com/design/9NKb5bIvA0bvAMZvaRDFmA/SaaS-Dashboard-UI-Design.
-
-  ## Running the code
+## Running the code
 
   Run `npm i` to install the dependencies.
 

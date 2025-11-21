@@ -10,7 +10,7 @@ const activities = [
   { time: '2025-11-21 14:08:20', employee: 'Olivia Brown', action: 'Blocked', domain: 'unsecure-payment.biz', risk: 'red' },
   { time: '2025-11-21 14:05:18', employee: 'Alex Johnson', action: 'Flagged', domain: 'social-media-bot.xyz', risk: 'orange' },
   { time: '2025-11-21 13:58:45', employee: 'Sophie Martinez', action: 'Allowed', domain: 'linkedin.com', risk: 'green' },
-  { time: '2025-11-21 13:52:30', employee: 'David Lee', action: 'Allowed', domain: 'figma.com', risk: 'green' },
+  { time: '2025-11-21 13:52:30', employee: 'David Lee', action: 'Allowed', domain: 'notion.so', risk: 'green' },
   { time: '2025-11-21 13:45:12', employee: 'Rachel Green', action: 'Blocked', domain: 'phishing-site.ru', risk: 'red' },
   { time: '2025-11-21 13:38:55', employee: 'Tom Harris', action: 'Allowed', domain: 'slack.com', risk: 'green' },
 ];
